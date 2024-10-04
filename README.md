@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I’m a researcher passionate about **Synthetic Biology**, **Dynamical Systems**, and **Machine Learning**. My current work focuses on understanding and engineering the **spatial dynamics of living systems**.
 
 ## 💻 Check Out My Work
-
+- [** Biocomputing **]
 ## 🚀 Skills
 - Math modeling
 - PDE
