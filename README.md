@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jia 👋
 
 <!--
 **jialubio/jialubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a research in synthetic biology, currently working spatial dynamics of living systems. I am interested in dyanmical systems, synthetic biology, machinelearing. Checkout my works on reaction-diffusion pattern formation, and microbial colony morphology. 
+I’m a researcher passionate about **Synthetic Biology**, **Dynamical Systems**, and **Machine Learning**. My current work focuses on understanding and engineering the **spatial dynamics of living systems**.
+
+## 💻 Check Out My Work
