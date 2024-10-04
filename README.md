@@ -20,6 +20,7 @@ I’m a researcher passionate about **Synthetic Biology**, **Dynamical Systems**
 ## 💻 Check Out My Work
 
 ## 🚀 Skills
+- Math modeling
 - PDE
 - HPC, cloud computing
 - ML
