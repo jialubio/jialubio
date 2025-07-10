@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a researcher passionate about **Synthetic Biology**, **Dynamical Systems**, and **Machine Learning**. My current work focuses on understanding and engineering the **spatial dynamics of living systems**.
+I’m a researcher passionate about **Synthetic Biology**, **Dynamical Systems**, and **Machine Learning**. 
 
-## 💻 Check Out My Work
+## 💻 Check out my work on pattern formation
 - Discovery of interpretable pattern formation rules with ML surrogate model [preprint](https://www.biorxiv.org/content/biorxiv/early/2024/09/02/2024.09.02.610872.full.pdf), [code](https://github.com/jialubio/SyntheticPatternFormation_JiaLu)
 - Biocomputing with self-organized pattern formation [website](https://www.patternencoder.com/), [paper](https://doi.org/10.1016/j.patter.2022.100590), [code](https://github.com/youlab/Information_encoding)
 
@@ -26,3 +26,4 @@ I’m a researcher passionate about **Synthetic Biology**, **Dynamical Systems**
 - PDE
 - HPC, cloud computing
 - ML
+- Genomic mining
