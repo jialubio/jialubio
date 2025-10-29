@@ -24,5 +24,5 @@ I’m a researcher passionate about **Synthetic Biology**, **Complex Systems**, 
 ## 🚀 Skills
 - Biophysical modeling (ODE/PDE/Agent-based and novel modeling frameworks)
 - AI/ML
-- Genomic mining, 
+- Genomic mining
 - HPC, cloud computing
