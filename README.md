@@ -22,8 +22,7 @@ I’m a researcher passionate about **Synthetic Biology**, **Dynamical Systems**
 - Biocomputing with self-organized pattern formation [website](https://www.patternencoder.com/), [paper](https://doi.org/10.1016/j.patter.2022.100590), [code](https://github.com/youlab/Information_encoding)
 
 ## 🚀 Skills
-- Math modeling
-- PDE
+- Biophysical modeling (ODE/PDE/Agent-based and novel modeling frameworks)
+- AI/ML
+- Genomic mining, 
 - HPC, cloud computing
-- ML
-- Genomic mining
